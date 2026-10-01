@@ -1,0 +1,29 @@
+# =======================================================================
+# Git Attributes - Indústria & Produção
+# =======================================================================
+
+# Normalização de quebras de linha para arquivos texto
+* text=auto
+
+# Arquivos Binários (tratados sem conversão de quebra de linha)
+*.pbix binary
+*.pbit binary
+*.xlsx binary
+*.xls binary
+*.zip binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+
+# Scripts e Configurações
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.sh text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+*.csv text eol=crlf
+*.txt text eol=crlf
