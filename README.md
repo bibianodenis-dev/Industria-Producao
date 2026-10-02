@@ -73,7 +73,7 @@ flowchart LR
 
 ## 🗄️ Modelagem Relacional (Star Schema)
 
-A modelagem de dados foi arquitetada no formato **Star Schema (Esquema Estrela)**, priorizando performance analítica no motor VertiPaq, simplicidade de navegação e integridade relacional:
+A modelagem de dados foi arquitetada no formato **Star Schema (Esquema Estrela)**, priorizando performance analítica, simplicidade de navegação e integridade relacional:
 
 ```mermaid
 erDiagram
